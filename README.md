@@ -5,7 +5,7 @@
 Python3 Centos
 
 ## 安装
-yum install python3-tools
+yum install python3-tools\
 pip3 install bottle
 
 ## 启动服务
